@@ -1,0 +1,1225 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media (max-width: 1200px) {
+  #hero {
+    .hero {
+      &--title {
+        select {
+          width: 220px;
+        }
+      }
+
+      &--titles {
+        &__input {
+          &--search {
+            button {
+              margin-left: 189px;
+            }
+          }
+        }
+      }
+
+      &--icon {
+        margin-right: 30px;
+      }
+    }
+  }
+  #vegetable {
+    .vegetable {
+      &--block {
+        width: 220px;
+      }
+
+      &--title {
+        margin: 0 20px;
+        margin-top: 40px;
+      }
+
+    }
+  }
+  #froots {
+    .froots {
+      &--title {
+        width: 260px;
+      }
+    }
+  }
+  #drink {
+    .drink {
+      &--block {
+        img {
+          width: 90%;
+        }
+
+        h1 {
+          font-size: 25px;
+        }
+
+        p {
+          font-size: 15px;
+        }
+      }
+
+      &--blocks {
+        img {
+          width: 90%;
+        }
+
+        h1 {
+          font-size: 25px;
+        }
+
+        p {
+          font-size: 15px;
+        }
+      }
+
+    }
+  }
+  #blog {
+    .blog {
+      &--title {
+        width: 350px;
+
+        img {
+          width: 350px;
+        }
+      }
+    }
+  }
+  #also {
+    .also {
+      &--radios {
+        &__banan1 {
+          width: 250px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  #header {
+    .header {
+      &--texts {
+        h1 {
+          display: none;
+        }
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--title {
+        select {
+          width: 220px;
+        }
+      }
+
+      &--text {
+        display: none;
+      }
+
+      &--icon {
+        display: none;
+      }
+    }
+  }
+  #vegetable {
+    .vegetable {
+      &--block {
+        width: 220px;
+      }
+
+      &--title {
+        width: 800px;
+        margin: 0 20px;
+        margin-top: 40px;
+
+        &__img {
+          img {
+            width: 90%;
+          }
+        }
+
+        &__text {
+          h2 {
+            font-size: 35px;
+          }
+        }
+      }
+
+    }
+  }
+  #froots {
+    .froots {
+      &--title {
+        width: 220px;
+
+        img {
+          width: 170px;
+        }
+
+        &__apple {
+          width: 178px;
+        }
+      }
+    }
+  }
+  #drink {
+    .drink {
+      &--block {
+
+        img {
+          width: 90%;
+        }
+
+        h1 {
+          margin-left: -60px;
+          font-size: 20px;
+        }
+
+        p {
+          margin-left: -60px;
+          font-size: 14px;
+        }
+
+        button {
+          top: 129px;
+          left: 253px;
+        }
+      }
+
+      &--blocks {
+
+        img {
+          width: 90%;
+        }
+
+        h1 {
+          margin-left: -60px;
+          font-size: 20px;
+        }
+
+        p {
+          margin-left: -60px;
+          font-size: 14px;
+        }
+
+        button {
+          top: 145px;
+          left: 253px;
+        }
+      }
+
+
+    }
+  }
+  #product {
+    .product {
+      &--img {
+        width: 90%;
+      }
+
+      h1 {
+        font-size: 20px;
+      }
+    }
+  }
+  #blog {
+    .bl {
+      margin-left: 426px;
+    }
+
+    .blog {
+
+      &--title {
+        width: 300px;
+
+        img {
+          width: 300px;
+        }
+
+        h3 {
+          font-size: 15px;
+
+        }
+
+        p {
+          font-size: 12px;
+        }
+      }
+    }
+  }
+  #also {
+    .also {
+      &--radios {
+        &__banan1 {
+          width: 250px;
+        }
+      }
+    }
+  }
+  #footer {
+    .footer {
+      &--title {
+        a {
+          display: none;
+        }
+      }
+    }
+
+    .visa--img {
+      padding-left: 155px;
+    }
+  }
+}
+
+@media (max-width: 992px) {
+  #header {
+    .header {
+      &--texts {
+        h1 {
+          display: none;
+        }
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--title {
+        select {
+          width: 220px;
+        }
+      }
+
+      &--text {
+        display: none;
+      }
+
+      &--icon {
+        display: none;
+      }
+    }
+  }
+  #vegetable {
+    .vegetable {
+      &--block {
+        width: 220px;
+      }
+
+      &--title {
+        width: 800px;
+        margin: 0 20px;
+        margin-top: 40px;
+
+        &__img {
+          img {
+            width: 90%;
+          }
+        }
+
+        &__text {
+          h2 {
+            font-size: 35px;
+          }
+        }
+      }
+
+    }
+  }
+  #froots {
+    .froots {
+      &--title {
+        width: 220px;
+
+        img {
+          width: 170px;
+        }
+
+        &__apple {
+          width: 178px;
+        }
+      }
+    }
+  }
+  #drink {
+    .drink {
+      &--block {
+
+        img {
+          width: 90%;
+        }
+
+        h1 {
+          margin-left: -60px;
+          font-size: 20px;
+        }
+
+        p {
+          margin-left: -60px;
+          font-size: 14px;
+        }
+
+        button {
+          top: 129px;
+          left: 253px;
+        }
+      }
+
+      &--blocks {
+
+        img {
+          width: 90%;
+        }
+
+        h1 {
+          top: 40px;
+          margin-left: -60px;
+          font-size: 20px;
+        }
+
+        p {
+          top: 90px;
+          margin-left: -70px;
+          font-size: 14px;
+        }
+
+        button {
+          top: 125px;
+          left: 253px;
+        }
+      }
+
+
+    }
+  }
+  #product {
+    .product {
+      &--img {
+        width: 90%;
+      }
+
+      h1 {
+        font-size: 20px;
+      }
+    }
+  }
+  #blog {
+    .bl {
+      margin-left: 426px;
+    }
+
+    .blog {
+
+      &--title {
+        width: 280px;
+
+        img {
+          width: 280px;
+        }
+
+        h3 {
+          font-size: 15px;
+
+        }
+
+        p {
+          font-size: 12px;
+        }
+      }
+    }
+  }
+  #footer {
+    .footer {
+      &--title {
+        a {
+          display: none;
+        }
+      }
+    }
+
+    .visa {
+      &--img {
+        padding-left: 71px;
+      }
+    }
+  }
+  #also {
+    .also {
+      &--radios {
+        &__banan1 {
+          width: 250px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  #header {
+    .header {
+      &--text {
+        a {
+          display: none;
+        }
+      }
+
+      &--icon {
+        margin-left: 360px;
+      }
+
+    }
+  }
+  #hero {
+    .hero {
+      &--title {
+        select {
+          width: 220px;
+        }
+      }
+
+      &--titles {
+        &__input {
+          width: 447px;
+
+          button {
+            margin-left: 22px;
+          }
+        }
+      }
+
+      &--text {
+        display: none;
+      }
+
+      &--icon {
+        display: none;
+      }
+    }
+  }
+
+  #vegetable {
+    .vegetable {
+      &--block {
+        width: 260px;
+
+        a {
+          margin-left: 15px;
+        }
+      }
+
+      &--title {
+        width: 800px;
+        margin: 0 20px;
+        margin-top: 40px;
+
+        &__img {
+          img {
+            width: 90%;
+          }
+        }
+
+        &__text {
+          h2 {
+            font-size: 30px;
+          }
+
+          button {
+            font-size: 12px;
+            width: 123px;
+            height: 40px;
+          }
+        }
+      }
+
+    }
+  }
+
+  #froots {
+    .froots {
+      flex-wrap: wrap;
+      gap: 16px;
+      justify-content: space-evenly;
+      &--title {
+        width: 220px;
+
+        img {
+          width: 170px;
+        }
+
+        &__apple {
+          width: 178px;
+        }
+      }
+    }
+  }
+
+  #drink {
+    .drink {
+      &--block {
+
+        img {
+          width: 90%;
+        }
+
+        h1 {
+          top: 20px;
+          margin-left: -130px;
+          font-size: 20px;
+        }
+
+
+        p {
+          top: 50px;
+          margin-left: -128px;
+          font-size: 11px;
+        }
+
+        button {
+          font-size: 13px;
+          width: 122px;
+          height: 36px;
+          top: 73px;
+          left: 161px;
+        }
+      }
+
+      &--blocks {
+
+        img {
+          width: 90%;
+        }
+
+        h1 {
+          top: 20px;
+          margin-left: -130px;
+          font-size: 20px;
+        }
+
+
+        p {
+          display: none;
+        }
+
+        button {
+          font-size: 13px;
+          width: 122px;
+          height: 36px;
+          top: 73px;
+          left: 161px;
+        }
+      }
+
+
+    }
+  }
+
+  #product {
+    .product {
+      &--img {
+        width: 90%;
+      }
+
+      h1 {
+        font-size: 15px;
+      }
+    }
+  }
+
+  #blog {
+    .bl {
+      margin-left: 299px;
+    }
+
+    .blog {
+      flex-direction: column;
+
+      &--title {
+        margin: 20px 0;
+        width: 300px;
+
+        img {
+          width: 300px;
+        }
+
+        h3 {
+          font-size: 15px;
+
+        }
+
+        p {
+          font-size: 12px;
+        }
+      }
+    }
+  }
+
+  #also {
+    .also {
+      &--radios {
+        justify-content: space-evenly;
+        &__banan1 {
+          width: 250px;
+        }
+      }
+    }
+  }
+ #footer {
+   .footer {
+     &--title {
+       h1 {
+         display: none;
+       }
+     }
+   }
+ }
+}
+
+@media (max-width: 576px) {
+  #header {
+    .header {
+      h5 {
+        font-size: 35px;
+      }
+
+      &--icon {
+        display: none;
+      }
+    }
+  }
+  #hero {
+    .hero {
+      &--titles {
+        &__input {
+          display: none;
+        }
+      }
+    }
+  }
+  #vegetable {
+    .vegetable {
+      &--block {
+        width: 297px;
+        height: 294px;
+
+        a {
+          margin-left: 7px;
+          line-height: 20px;
+        }
+      }
+
+      &--title {
+        height: 294px;
+
+        &__text {
+          h2 {
+            font-size: 20px;
+          }
+
+          h1 {
+            font-size: 12px;
+          }
+
+          button {
+            font-size: 10px;
+            width: 79px;
+            height: 27px;
+          }
+        }
+      }
+    }
+  }
+  #froots {
+    .froots {
+      &--title {
+        margin: 20px 0;
+      }
+    }
+
+  }
+  #product {
+    .product {
+      flex-direction: column;
+    }
+  }
+  #drink {
+    .drink {
+      flex-direction: column;
+
+      &--block {
+        padding-left: 20px;
+
+        h1 {
+          top: 85px;
+          margin-left: -12px;
+        }
+
+        p {
+          top: 120px;
+          margin-left: -12px;
+          font-size: 14px;
+        }
+
+        button {
+          top: 153px;
+          left: 289px;
+        }
+      }
+
+      &--blocks {
+        padding-left: 20px;
+        margin-top: 20px;
+
+        h1 {
+          top: 85px;
+          margin-left: -12px;
+        }
+
+        p {
+          top: 120px;
+          margin-left: -12px;
+          font-size: 14px;
+        }
+
+        button {
+          top: 153px;
+          left: 289px;
+        }
+      }
+    }
+  }
+  #blog {
+    .bl {
+      margin-left: 213px;
+    }
+
+    .blog {
+
+    }
+  }
+  #also {
+    .also {
+      &--label {
+        label {
+          padding: 0 10px;
+        }
+      }
+
+      &--radios {
+justify-content: center;
+
+        &__banan1 {
+          width: 280px;
+
+        }
+      }
+    }
+  }
+  #footer {
+    .footer {
+      &--up {
+        position: relative;
+
+        &__input {
+          width: 364px;
+        }
+
+        button {
+          position: absolute;
+          top: 113px;
+          left: 139px;
+        }
+
+        &__icon {
+          padding-top: 77px;
+        }
+      }
+
+      &--titles {
+        h5 {
+          font-size: 30px;
+        }
+
+        a {
+          display: none;
+        }
+      }
+      &--title {
+        h1 {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 451px){
+  #hero {
+    .hero {
+      &--title {
+        margin-left: 90px;
+      }
+    }
+  }
+  #vegetable {
+    .vegetable {
+      flex-direction: column;
+
+      &--block {
+        width: 223px;
+
+        a {
+          margin-left: 30px;
+        }
+      }
+
+      &--title {
+        width: 90%;
+      }
+    }
+  }
+  #froots {
+    .froots {
+      &--title {
+        margin-left: 70px;
+      }
+    }
+  }
+  #drink {
+    .drink {
+      &--block {
+        h1 {
+          top: 35px;
+          left: 204px;
+        }
+        p {
+          top: 69px;
+          margin-left: -110px;
+          font-size: 14px;
+        }
+        button {
+          top: 102px;
+          left: 224px;
+        }
+      }
+      &--blocks {
+        h1 {
+          top: 25px;
+          left: 223px;
+        }
+        p {
+          top: 69px;
+          margin-left: -110px;
+          font-size: 14px;
+        }
+        button {
+          top: 102px;
+          left: 224px;
+        }
+      }
+    }
+  }
+  #blog {
+    .bl {
+      margin-left: 165px;
+    }
+  }
+  #also {
+    &--radios {
+      &__banan1 {
+        margin-left: 50px;
+      }
+    }
+  }
+  #footer {
+    .footer {
+      flex-direction: column;
+      &--titles {
+        a  {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 400px) {
+  #hero {
+    .hero {
+      &--title {
+        margin-left: 70px;
+      }
+    }
+  }
+  #drink {
+    .drink {
+      &--block {
+        h1 {
+          top: 35px;
+          left: 194px;
+        }
+        p {
+          top: 69px;
+          margin-left: -120px;
+          font-size: 12px;
+        }
+        button {
+          width: 78px;
+          font-size: 10px;
+          top: 93px;
+          left: 209px;
+          height: 24px;
+        }
+      }
+      &--blocks {
+        h1 {
+          top: 35px;
+          left: 194px;
+        }
+        p {
+          top: 69px;
+          margin-left: -120px;
+          font-size: 12px;
+        }
+        button {
+          width: 78px;
+          font-size: 10px;
+          top: 93px;
+          left: 209px;
+          height: 24px;
+        }
+      }
+    }
+  }
+  #also {
+    .also {
+      &--label {
+        label {
+          padding: 0 4px;
+        }
+      }
+    }
+  }
+  #froots {
+    .froots {
+      &--title {
+        margin-left: 21px;
+      }
+    }
+  }
+  #footer {
+    .footer {
+      padding-bottom: 100px;
+      &--up {
+        &__icon {
+          padding-top: 46px;
+        }
+        &__input {
+          width: 319px;
+          height: 38px;
+        }
+        button {
+          height: 38px;
+          width: 130px;
+        }
+      }
+    }
+
+    .visa {
+      display: none;
+    }
+  }
+  #blog {
+    .bl {
+      margin-left: 93px;
+    }
+  }
+}
+
+@media (max-width: 376px) {
+  #hero {
+    .hero {
+      &--title {
+        margin-left: 60px;
+      }
+    }
+  }
+  #drink {
+    .drink {
+      &--block {
+        h1 {
+          top: 20px;
+          left: 192px;
+          font-size: 18px;
+        }
+        p {
+          top: 48px;
+          margin-left: -121px;
+          font-size: 10px;
+        }
+        button {
+          top: 70px;
+          left: 179px;
+        }
+      }
+      &--blocks {
+        h1 {
+          top: 20px;
+          left: 192px;
+          font-size: 18px;
+        }
+        p {
+          top: 48px;
+          margin-left: -121px;
+          font-size: 10px;
+        }
+        button {
+          top: 70px;
+          left: 179px;
+        }
+      }
+
+
+    }
+  }
+  #froots {
+    .froots {
+      &--title {
+        margin-left: 21px;
+      }
+    }
+  }
+}
+
+@media (max-width: 320px) {
+  #hero {
+    .hero {
+      &--title {
+        margin-left: 30px;
+      }
+    }
+  }
+  #vegetable {
+    .vegetable {
+
+      &--title {
+        height: 245px;
+        width: 90%;
+        h1 {
+          font-size: 10px;
+        }
+        h2 {
+          font-size: 15px;
+        }
+        p {
+          font-size: 10px;
+        }
+      }
+    }
+  }
+  #froots {
+    .froots {
+      &--title {
+        margin-left: 27px;
+      }
+    }
+  }
+  #drink {
+    .drink {
+      &--block {
+        h1 {
+          top: 20px;
+          left: 170px;
+          font-size: 15px;
+        }
+        p {
+          top: 48px;
+          margin-left: -161px;
+          font-size: 10px;
+        }
+        button {
+          top: 70px;
+          left: 179px;
+        }
+      }
+      &--blocks {
+        h1 {
+          top: 20px;
+          left: 170px;
+          font-size: 15px;
+        }
+        p {
+          top: 48px;
+          margin-left: -161px;
+          font-size: 10px;
+        }
+        button {
+          top: 70px;
+          left: 179px;
+        }
+      }
+
+    }
+  }
+  #also {
+    .also {
+      h1 {
+        font-size: 30px;
+
+      }
+      &--label {
+        label {
+          padding: 0 -5px;
+        }
+      }
+    }
+    &--radios
+    &__banan1 {
+      width: 277px;
+    }
+    &__banan2 {
+      width: 277px;
+    }
+    &__banan3 {
+      width: 277px;
+    }
+    &__banan4 {
+      width: 277px;
+    }
+  }
+  #footer {
+    .footer {
+      padding-bottom: 100px;
+      &--up {
+        h1 {
+          font-size: 18px;
+        }
+        p {
+          font-size: 12px;
+        }
+        &__icon {
+          font-size: 20px;
+          padding-top: 46px;
+        }
+        &__input {
+          width: 296px;
+          height: 38px;
+        }
+        button {
+          height: 38px;
+          width: 108px;
+        }
+      }
+    }
+
+    .visa {
+      display: none;
+    }
+  }
+}
+
